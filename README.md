@@ -1,7 +1,8 @@
 Trabalho de PEOO -Tratamento de Exceção
 
-Alunos: Rodrigo Vandemberg Alves Barroso 1514923
-        Ramiro Távora Viana Filho 1514800
+Alunos:
+Rodrigo Vandemberg Alves Barroso 1514923
+Ramiro Távora Viana Filho 1514800
 
 --------------------------------------------
 
